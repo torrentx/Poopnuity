@@ -12,7 +12,7 @@
 /******************************************************************************************************************************************************************
 ------ User Info ------
 If you want to look at more things like this, go to our subreddit at reddit.com/r/edgenuity.
-Inspired by EATH_WORK234 and just how horrible Edgenuity is as software, a pedagological tool, at effectiveness, etc. 
+Inspired by EATH_WORM234 and just how horrible Edgenuity is as software, a pedagological tool, at effectiveness, etc. 
 
 If this becomes popular (100+ installs) here are the top priority features:
 0. Dev stuff - Repository, autoupdates, CI/CD, contact original devs to avoid duplicating effort, etc. 
